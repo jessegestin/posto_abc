@@ -1,0 +1,2 @@
+INSERT INTO TANQUES (NOME, TIPO)
+VALUES ('Óleo Diesel', 1);

@@ -1,0 +1,2 @@
+INSERT INTO TANQUES (NOME, TIPO)
+VALUES ('Gasolina', 0);

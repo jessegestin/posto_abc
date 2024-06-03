@@ -1,0 +1,2 @@
+INSERT INTO USUARIOS (USUARIO, SENHA)
+VALUES ('admin', 'admin');

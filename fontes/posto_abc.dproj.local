@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/30 10:54:09.000.544,=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 10:58:01.000.718,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\posto_abc.dproj=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/30 10:58:22.000.942,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\main.dfm=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 10:58:22.000.942,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\main.pas=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 11:00:35.000.839,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\frm_main.dfm=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2024/05/30 11:00:35.000.839,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\frm_main.pas=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>2024/05/30 11:00:51.000.626,C:\Projetos\posto_abc\fontes\posto_abc.dproj=C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\posto_abc.dproj</Transaction>
+    <Transaction>2024/05/30 11:03:49.000.392,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 11:53:45.000.805,C:\Projetos\posto_abc\fontes\datamodule.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 11:53:45.000.805,C:\Projetos\posto_abc\fontes\datamodule.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 11:54:34.000.574,C:\Users\jesse\OneDrive\Documentos\Embarcadero\Studio\Projects\frm_main.pas=</Transaction>
+    <Transaction>2024/05/30 11:56:04.000.674,=C:\Projetos\posto_abc\fontes\frm_main.pas</Transaction>
+    <Transaction>2024/05/30 11:56:26.000.496,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 11:57:33.000.206,C:\Projetos\posto_abc\fontes\data_module.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 11:57:33.000.206,C:\Projetos\posto_abc\fontes\data_module.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 13:19:31.000.146,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 13:19:47.000.726,C:\Projetos\posto_abc\fontes\frm_cadastro_usuario.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 13:19:47.000.726,C:\Projetos\posto_abc\fontes\frm_cadastro_usuario.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 13:21:56.000.678,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 13:22:07.000.153,C:\Projetos\posto_abc\fontes\frm_cadastro.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 13:22:07.000.153,C:\Projetos\posto_abc\fontes\frm_cadastro.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 13:26:36.000.399,C:\Projetos\posto_abc\fontes\frm_cadastro_usuario.pas=</Transaction>
+    <Transaction>2024/05/30 13:27:05.000.263,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 13:27:22.000.436,C:\Projetos\posto_abc\fontes\frm_cadastro_usuario.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 13:27:22.000.436,C:\Projetos\posto_abc\fontes\frm_cadastro_usuario.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 15:07:26.000.282,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 15:08:11.000.741,C:\Projetos\posto_abc\fontes\frm_cadastro_tanque.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/06/02 15:08:11.000.741,C:\Projetos\posto_abc\fontes\frm_cadastro_tanque.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 15:49:28.000.911,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 15:49:51.000.186,C:\Projetos\posto_abc\fontes\frm_cadastro_bomba.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 15:49:51.000.186,C:\Projetos\posto_abc\fontes\frm_cadastro_bomba.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/06/02 17:43:44.000.879,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 17:44:16.000.266,C:\Projetos\posto_abc\fontes\frm_Abastecimento.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 17:44:16.000.266,C:\Projetos\posto_abc\fontes\frm_Abastecimento.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+    <Transaction>2024/06/02 19:25:53.000.783,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 19:26:32.000.555,C:\Projetos\posto_abc\fontes\Unit1.pas=C:\Projetos\posto_abc\fontes\frm_relatorio.pas</Transaction>
+    <Transaction>2024/06/02 19:26:32.000.555,C:\Projetos\posto_abc\fontes\Unit1.dfm=C:\Projetos\posto_abc\fontes\frm_relatorio.dfm</Transaction>
+    <Transaction>2024/06/02 22:17:55.953,=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 22:18:34.340,C:\Projetos\posto_abc\fontes\frm_Splash_Screen.pas=C:\Projetos\posto_abc\fontes\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 22:18:34.340,C:\Projetos\posto_abc\fontes\frm_Splash_Screen.dfm=C:\Projetos\posto_abc\fontes\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
